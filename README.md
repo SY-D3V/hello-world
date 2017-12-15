@@ -1,2 +1,5 @@
 # hello-world
-Beginner repo
+
+Hello,
+
+I'm a new java programmer and soon will be getting into Android development.
